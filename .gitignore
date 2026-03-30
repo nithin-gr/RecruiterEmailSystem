@@ -1,0 +1,21 @@
+# Credentials & secrets
+.env
+*.env
+recruiter_outreach.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
